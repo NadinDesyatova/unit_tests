@@ -2,6 +2,9 @@
 
 ## Чистые функции
 
+[![Build status](https://ci.appveyor.com/api/projects/status/kxsa8vm5eht5xvyq?svg=true)](https://ci.appveyor.com/project/NadinDesyatova/unit-tests)
+
+
 ### Описание
 
 Реализована функция, которая должна отображать состояние здоровья игрового персонажа.
